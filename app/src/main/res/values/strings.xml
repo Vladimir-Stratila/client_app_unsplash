@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client For Unsplash</string>
+    <string name="img_src">img_src</string>
+</resources>
