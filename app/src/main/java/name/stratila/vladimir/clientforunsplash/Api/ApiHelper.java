@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiHelper {
     public  static  final String BASE_URL = "https://api.unsplash.com";
-    public  static  final String API_KEY = "y_ZIE6i910mjVp1bLKkwn6Ry77o-r6P4kaFJxq6r8p8";
+    public  static  final String API_KEY = "PLACE_YOUR_API_KEY_HERE";
 
     public  static Retrofit retrofit = null;
     public static ApiInterface getApiInterface(){
